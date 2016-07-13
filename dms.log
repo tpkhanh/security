@@ -1,0 +1,9 @@
+2016-07-13 07:52:12-Thread-80--WARN -vn.axonactive.dms.ftp.FtpServerConfig:-----> FtpServerConfig vn.axonactive.dms.service.impl.ConnectionConfigurationServiceImp@795ae065
+2016-07-13 11:33:48-DefaultThreadPool 194--ERROR-vn.axonactive.dms.restfulservice.DocumentDistributionAPI:DocumentDistributionAPI getHRDocs throws exception :null
+2016-07-13 13:46:19-DefaultThreadPool 194--ERROR-vn.axonactive.dms.restfulservice.DocumentDistributionAPI:DocumentDistributionAPI getHRDocs throws exception :null
+2016-07-13 14:33:02-DefaultThreadPool 198--ERROR-vn.axonactive.dms.restfulservice.DocumentDistributionAPI:DocumentDistributionAPI getHRDocs throws exception :null
+2016-07-13 14:33:16-DefaultThreadPool 198--ERROR-vn.axonactive.dms.restfulservice.DocumentDistributionAPI:DocumentDistributionAPI getHRDocs throws exception :null
+2016-07-13 14:35:18-DefaultThreadPool 198--ERROR-vn.axonactive.dms.restfulservice.DocumentDistributionAPI:DocumentDistributionAPI getHRDocs throws exception :null
+2016-07-13 14:35:28-DefaultThreadPool 198--ERROR-vn.axonactive.dms.restfulservice.DocumentDistributionAPI:DocumentDistributionAPI getHRDocs throws exception :null
+2016-07-13 14:37:17-DefaultThreadPool 198--ERROR-vn.axonactive.dms.restfulservice.DocumentDistributionAPI:DocumentDistributionAPI getHRDocs throws exception :null
+2016-07-13 14:37:56-DefaultThreadPool 198--ERROR-vn.axonactive.dms.restfulservice.DocumentDistributionAPI:DocumentDistributionAPI getHRDocs throws exception :null
